@@ -27,7 +27,7 @@ The goal of this project was to model the implied volatility surface. This is a 
 
 
 **Model**
-\begin{enumerate}
+
 
   1. We found out that a lot of variables in the dataset were unncessary/redundant. In the end we used as features: last date, cp flag, strike         price, best bid, best offer, volume, open interest, impl volatility, delta, gamma, vega, theta.
   2. We found out that the strike prices were all multiplied by 1000. After digging in the documentation we realized that this is how         OptionMetrics dessimates this information.
@@ -41,6 +41,8 @@ The goal of this project was to model the implied volatility surface. This is a 
 
 
 
+Since the dataset is too large to upload on GitHub, data can be downloaded from
+https://drive.google.com/drive/folders/1TrJik_tDAdVsPxvURi1RLaHktMLsRV6O?usp=sharing
 
 
-\end{enumerate}
+
