@@ -1,6 +1,8 @@
 # Volatility-Surface-Estimation
 Group project for Erdos Institute Data Science Bootcamp.
 
+Since the dataset is too large to upload on GitHub, data can be downloaded from
+https://drive.google.com/drive/folders/1TrJik_tDAdVsPxvURi1RLaHktMLsRV6O?usp=sharing
 
 **Introduction **
 
@@ -41,8 +43,7 @@ The goal of this project was to model the implied volatility surface. This is a 
 
 
 
-Since the dataset is too large to upload on GitHub, data can be downloaded from
-https://drive.google.com/drive/folders/1TrJik_tDAdVsPxvURi1RLaHktMLsRV6O?usp=sharing
+
 
 
 
